@@ -14,7 +14,7 @@
 # int val = ...; // Value to remove
 # int[] expectedNums = [...]; // The expected answer with correct length.
 #                             // It is sorted with no values equaling val.
-
+ 
 # int k = removeElement(nums, val); // Calls your implementation
 
 # assert k == expectedNums.length;
