@@ -43,3 +43,4 @@ class Solution:
         for i,idx in enumerate(il):
             s[idx]=vl[::-1][i]
         return ''.join(s)
+    
