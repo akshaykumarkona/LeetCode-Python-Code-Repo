@@ -15,7 +15,7 @@
 # The character 'l' at index 0 is the first character that does not occur at any other index.
 
 # Example 2:
-
+ 
 # Input: s = "loveleetcode"
 
 # Output: 2
